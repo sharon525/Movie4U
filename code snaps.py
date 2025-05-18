@@ -1,5 +1,5 @@
     
-    # part of the html code for giving a rating
+    # part of the html code for rating a movie
     <tbody>
       {% for movie in movi %}
       <td> {{movie.movieId}} </td>
