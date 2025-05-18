@@ -45,3 +45,5 @@ Cosine Similarity calculated with scikit-learn
 Data Preprocessing handled with pandas
 
 Models updated dynamically with every interaction
+
+you can watch a demo here: https://sharon525.github.io/Movie4U/
